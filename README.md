@@ -13,10 +13,10 @@ This repository contains a comprehensive sales forecasting solution aimed at pre
 8. [Contributing](#contributing)
 
 ## Overview
-This project demonstrates a practical approach to sales forecasting, with particular emphasis on the "Stationary" product category. The analysis uses historical sales data to predict monthly sales, further breaking down the predictions into daily estimates.
+This project demonstrates a practical approach to sales forecasting, with particular emphasis on the "Stationery" product category. The analysis uses historical sales data to predict monthly sales, further breaking down the predictions into daily estimates.
 
 ## Features
-- **Data Filtering**: Focuses on the "Stationary" category for a specialized forecast.
+- **Data Filtering**: Focuses on the "Stationery" category for a specialized forecast.
 - **Monthly Forecasting**: Predicts sales for the first three months of the year.
 - **Daily Breakdown**: Distributes monthly sales predictions into daily estimates.
 - **Weekday Adjustments**: Accounts for weekday-specific sales patterns to refine daily predictions.
@@ -55,7 +55,7 @@ cd sales-forecasting-project
  * **Visualization** : View charts of the forecast using Jupyter notebooks in ```notebooks/``` or by running the main script.
 
 ## Methodology
-* **Data Preprocessing**: Filters data to focus on the "Stationary" category and prepares monthly and daily sales data.
+* **Data Preprocessing**: Filters data to focus on the "Stationery" category and prepares monthly and daily sales data.
 * **Forecasting**: Calculates monthly forecasts based on historical averages and predicted sales growth.
 * **Daily Distribution**: Breaks down monthly predictions into daily sales using weekday sales patterns.
 * **Visualization**: Plots daily and monthly sales trends for the first three months of the Persian year 1399.
