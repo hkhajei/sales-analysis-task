@@ -24,6 +24,7 @@ This project demonstrates a practical approach to sales forecasting, with partic
 
 ## Project Structure
 The project structure is as follows:
+
 ```
 ├── data/              # Historical and predicted sales data
 ├── notebooks/         # Jupyter notebooks for exploration and analysis
@@ -44,14 +45,14 @@ cd sales-forecasting-project
    cd sales-forecasting-project
    ```
 2. Install the required Python packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 ## Usage
- * **Data Preparation** : Make sure you have the necessary historical sales data in the data/ folder.
- * **Run Analysis** : Execute the Python scripts in the src/ folder to process data and generate forecasts.
- * **Daily Sales Breakdown**: The daily sales breakdown for the first three months is saved in an Excel file (daily_sales_breakdown.xlsx) after running the script.
- * **Visualization** : View charts of the forecast using Jupyter notebooks in notebooks/ or by running the main script.
+ * **Data Preparation** : Make sure you have the necessary historical sales data in the ```data/``` folder.
+ * **Run Analysis** : Execute the Python scripts in the ```src/``` folder to process data and generate forecasts.
+ * **Daily Sales Breakdown**: The daily sales breakdown for the first three months is saved in an Excel file (```daily_sales_breakdown.xlsx```) after running the script.
+ * **Visualization** : View charts of the forecast using Jupyter notebooks in ```notebooks/``` or by running the main script.
 
 ## Methodology
 * **Data Preprocessing**: Filters data to focus on the "Stationary" category and prepares monthly and daily sales data.
