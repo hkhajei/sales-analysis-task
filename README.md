@@ -3,7 +3,7 @@
 ## Overview
 
 This project implements a sales forecasting model designed to predict future sales for the stationery category. Utilizing historical data and advanced machine learning techniques, it provides detailed monthly and daily sales predictions. The goal is to assist in strategic planning and inventory management for e-commerce operations.
-
+This project was completed as part of a time-constrained task over a few days. The aim of the project is to predict sales for the "stationery" category using historical data.
 For comprehensive details regarding the project, including methodologies, data analysis, and forecasting techniques, please refer to the [PlanningTask.pdf](PlanningTask.pdf).
 
 
